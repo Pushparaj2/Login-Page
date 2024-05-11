@@ -18,7 +18,7 @@ body{
    display: flex;
     align-items: center;
     justify-content: center;
-    background: url('./image 3.jpg') center/cover no-repeat;
+    background: url('./image 2.jpg') center/cover no-repeat;
 }
 
 .wrapper{
